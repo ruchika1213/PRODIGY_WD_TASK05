@@ -10,7 +10,8 @@ The personal portfolio website showcases my skills, projects, and experiences as
 
 - Home: Introduces myself and provides a brief overview of my skills and interests.
 - About: Details my professional background, education, and relevant experience.
-- Projects: Showcases the projects I have worked on, including descriptions, screenshots, and links to live demos or repositories.
+- Projects: Showcases the projects I have worked on, including descriptions, screenshots, and links to live demos or repositories.![ruhcika1](https://github.com/user-attachments/assets/61fdbd5d-b30e-426f-a2ba-0442c0dead89)
+
 - Skills: Lists the programming languages, frameworks, and tools I am proficient in.
 - Contact: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
 
