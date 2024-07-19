@@ -14,6 +14,7 @@ The personal portfolio website showcases my skills, projects, and experiences as
 - Skills: Lists the programming languages, frameworks, and tools I am proficient in.
 - Contact: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
 
+
 ## Technologies Used
 
 - HTML: Markup language used for structuring the website.
@@ -37,3 +38,5 @@ I appreciate any suggestions, feedback, or contributions to enhance this persona
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
+
+![Screenshot (233)](https://github.com/user-attachments/assets/7f47e7c0-7697-48c0-85b0-e828cb957331)
